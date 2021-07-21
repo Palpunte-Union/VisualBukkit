@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/VB-Application/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/VB-Application/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/VB-Block-Generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/VB-Extensions/PlaceholderAPI/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/VB-Extensions/PlaceholderAPI/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/VB-Extensions/Vault/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/VB-Extensions/Vault/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/VB-Extensions/bStats/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/VB-Extensions/bStats/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/VB-Plugin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/VB-Plugin/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

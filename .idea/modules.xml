@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/VB-Extensions/bStats/bstats-extension.iml" filepath="$PROJECT_DIR$/VB-Extensions/bStats/bstats-extension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VB-Extensions/PlaceholderAPI/papi-extension.iml" filepath="$PROJECT_DIR$/VB-Extensions/PlaceholderAPI/papi-extension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VB-Extensions/Vault/vault-extension.iml" filepath="$PROJECT_DIR$/VB-Extensions/Vault/vault-extension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VB-Application/vb-application.iml" filepath="$PROJECT_DIR$/VB-Application/vb-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VB-Block-Generator/vb-block-generator.iml" filepath="$PROJECT_DIR$/VB-Block-Generator/vb-block-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VB-Extensions/vb-extensions.iml" filepath="$PROJECT_DIR$/VB-Extensions/vb-extensions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VB-Plugin/vb-plugin.iml" filepath="$PROJECT_DIR$/VB-Plugin/vb-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/visual-bukkit.iml" filepath="$PROJECT_DIR$/visual-bukkit.iml" />
+    </modules>
+  </component>
+</project>
